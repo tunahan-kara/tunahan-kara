@@ -13,10 +13,6 @@
 - Firebase | Linux  
 
 ---
-
-## 📈 GitHub İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunahan-kara&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan-kara&layout=compact&theme=tokyonight)
 
 ---
