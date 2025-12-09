@@ -8,8 +8,8 @@
 ---
 
 ## 💻 Kullandığım Teknolojiler
-- Kotlin | Java | Android Studio  
-- Python | Git | Yapay Zekâ  
+- Kotlin | Java | Flutter  
+- Dart | Git | Yapay Zekâ  
 - Firebase | Linux  
 
 ---
