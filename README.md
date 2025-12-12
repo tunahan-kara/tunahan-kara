@@ -8,11 +8,13 @@
 ---
 
 ## 💻 Kullandığım Teknolojiler
-- Kotlin | Java | Flutter  
-- Dart | Git | Yapay Zekâ  
-- Firebase | Linux  
+  Kotlin · Flutter · Dart  
+  Firebase · Git · Linux  
+  Yapay Zeka · Kotlin MP
+
 
 ---
+### 🧠 En Çok Kullandığım Diller
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan-kara&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
