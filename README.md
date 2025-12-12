@@ -13,7 +13,7 @@
 - Firebase | Linux  
 
 ---
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tunahan-kara&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact)
 
 ---
 
