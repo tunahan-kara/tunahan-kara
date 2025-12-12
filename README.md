@@ -13,7 +13,7 @@
 - Firebase | Linux  
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan-kara&layout=compact)
 
 ---
 
