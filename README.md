@@ -15,7 +15,7 @@
 
 ---
 ### 🧠 En Çok Kullandığım Diller
-![Languages](https://metrics.lecoq.io/tunahan-kara?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%)
+![Languages](https://metrics.lecoq.io/tunahan-kara?template=classic&languages=1&languages.limit=8)
 
 ---
 
