@@ -14,7 +14,7 @@
 
 
 ### 🧠 En Çok Kullandığım Diller
-![GitHub Dilleri](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan-kara&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tunahan-kara&layout=compact&theme=vision-friendly-dark)
 
 ---
 
