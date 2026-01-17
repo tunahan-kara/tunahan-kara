@@ -15,7 +15,7 @@
 
 ---
 ### 🧠 En Çok Kullandığım Diller
-![Languages](https://metrics.lecoq.io/tunahan-kara?template=classic&languages=1&languages.limit=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan-kara&layout=compact&theme=vision-glow)
 
 ---
 
