@@ -9,7 +9,7 @@
 
 ## 💻 Kullandığım Teknolojiler
   Kotlin · Flutter · Dart  
-  Firebase · Git · Linux  
+  Firebase · Git · Java  
   Yapay Zeka · Kotlin MP
 
 
