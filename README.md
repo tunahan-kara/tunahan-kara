@@ -20,7 +20,7 @@
 
 ## 🌐 Bana Ulaşın
 - 📩 [E-mail](mailto:tunahankara6813@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/tunahankaraaa/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tunahankara/)  
 
 ---
 ✨ “Kod yaz, üret, paylaş.”  
