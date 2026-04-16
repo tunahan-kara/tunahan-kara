@@ -3,7 +3,7 @@
 🎓 Bilgisayar Mühendisliği son sınıf öğrencisiyim.  
 📱 Android & Mobil uygulama geliştirme ile uğraşıyorum.  
 🤖 Yapay zekâ ve yazılım teknolojilerine özel ilgim var.  
-🚀 Şu an [Dönermatik](https://github.com/tunahan-kara/Donermatik) gibi projeler üzerinde çalışıyorum!  
+🚀 Şu an [Reflex7](https://github.com/tunahan-kara/Reflex7) gibi projeler üzerinde çalışıyorum!  
 
 ---
 
