@@ -1,9 +1,9 @@
 # 👋 Merhaba, ben Tunahan!
 
-🎓 Bilgisayar Mühendisliği son sınıf öğrencisiyim. VBT Yazılım'da stajyer bilgisayar mühendisiyim!
-
+🎓 Bilgisayar Mühendisliği son sınıf öğrencisiyim.
 📱 Android & Mobil uygulama geliştirme ile uğraşıyorum.  
 🤖 Yapay zekâ ve yazılım teknolojilerine özel ilgim var.  
+💻 VBT Yazılım'da stajyer bilgisayar mühendisiyim!
 🚀 Şu an [Reflex7](https://github.com/tunahan-kara/Reflex7) gibi projeler üzerinde çalışıyorum!  
 
 ---
