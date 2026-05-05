@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 Bana Ulaşın
+## 🌐 Benimle İletişime Geçin!
 - 📩 [E-mail](mailto:tunahankara6813@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tunahankara/)  
 
